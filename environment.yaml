@@ -1,0 +1,6 @@
+dependencies:
+- altair
+- ipywidgets
+- matplotlib
+- numpy
+- pandas
